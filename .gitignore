@@ -1,0 +1,9 @@
+*.log
+*.json
+*.png
+graph/
+.DS_Store
+.idea/
+**/logs
+*.zip
+*.csv
